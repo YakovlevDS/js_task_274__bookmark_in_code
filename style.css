@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: rgb(113, 126, 197);
+}
+
+.container {
+    max-width: 1200px;
+    margin:  auto;
+    background: #302f2f;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    margin: 20px 0 30px 0;
+}
+
+
+section, .section {
+    margin-bottom: 30px;
+}
+
+
+
+.section {
+    margin: 10px 0 10px 0;
+    padding: 10px 0 30px 0;
+    border-bottom: 1px solid #c2c2c2;
+}
+
+.section div {
+    margin-bottom: 20px;
+}
+
